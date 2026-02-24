@@ -1,0 +1,2042 @@
+[
+    {
+        "id": 1,
+        "title": "Cybersecurity for Women - Beginner (Global) #1",
+        "category": "Cybersecurity",
+        "level": "Beginner",
+        "region": "Global",
+        "platform": "Coursera (Women Scholarship)",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/cybersecurity/1",
+        "tags": [
+            "cybersecurity",
+            "beginner",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Cybersecurity for Women - Beginner (Global) #2",
+        "category": "Cybersecurity",
+        "level": "Beginner",
+        "region": "Global",
+        "platform": "Microsoft Women in Tech",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/cybersecurity/2",
+        "tags": [
+            "cybersecurity",
+            "beginner",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Cybersecurity for Women - Beginner (India) #1",
+        "category": "Cybersecurity",
+        "level": "Beginner",
+        "region": "India",
+        "platform": "Girls Who Code",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/cybersecurity/3",
+        "tags": [
+            "cybersecurity",
+            "beginner",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Cybersecurity for Women - Beginner (India) #2",
+        "category": "Cybersecurity",
+        "level": "Beginner",
+        "region": "India",
+        "platform": "SheCodes",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/cybersecurity/4",
+        "tags": [
+            "cybersecurity",
+            "beginner",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Cybersecurity for Women - Intermediate (Global) #1",
+        "category": "Cybersecurity",
+        "level": "Intermediate",
+        "region": "Global",
+        "platform": "SheCodes",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/cybersecurity/5",
+        "tags": [
+            "cybersecurity",
+            "intermediate",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Cybersecurity for Women - Intermediate (Global) #2",
+        "category": "Cybersecurity",
+        "level": "Intermediate",
+        "region": "Global",
+        "platform": "edX (Women Scholarship)",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/cybersecurity/6",
+        "tags": [
+            "cybersecurity",
+            "intermediate",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Cybersecurity for Women - Intermediate (India) #1",
+        "category": "Cybersecurity",
+        "level": "Intermediate",
+        "region": "India",
+        "platform": "NASSCOM Women Wizards Rule Tech",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/cybersecurity/7",
+        "tags": [
+            "cybersecurity",
+            "intermediate",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Cybersecurity for Women - Intermediate (India) #2",
+        "category": "Cybersecurity",
+        "level": "Intermediate",
+        "region": "India",
+        "platform": "Women Who Code",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/cybersecurity/8",
+        "tags": [
+            "cybersecurity",
+            "intermediate",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Cybersecurity for Women - Advanced (Global) #1",
+        "category": "Cybersecurity",
+        "level": "Advanced",
+        "region": "Global",
+        "platform": "Women Who Code",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/cybersecurity/9",
+        "tags": [
+            "cybersecurity",
+            "advanced",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Cybersecurity for Women - Advanced (Global) #2",
+        "category": "Cybersecurity",
+        "level": "Advanced",
+        "region": "Global",
+        "platform": "Girls Who Code",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/cybersecurity/10",
+        "tags": [
+            "cybersecurity",
+            "advanced",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Cybersecurity for Women - Advanced (India) #1",
+        "category": "Cybersecurity",
+        "level": "Advanced",
+        "region": "India",
+        "platform": "Microsoft Women in Tech",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/cybersecurity/11",
+        "tags": [
+            "cybersecurity",
+            "advanced",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Cybersecurity for Women - Advanced (India) #2",
+        "category": "Cybersecurity",
+        "level": "Advanced",
+        "region": "India",
+        "platform": "AnitaB.org",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/cybersecurity/12",
+        "tags": [
+            "cybersecurity",
+            "advanced",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Data Science for Women - Beginner (Global) #1",
+        "category": "Data Science",
+        "level": "Beginner",
+        "region": "Global",
+        "platform": "SheCodes",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/datascience/13",
+        "tags": [
+            "data science",
+            "beginner",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Data Science for Women - Beginner (Global) #2",
+        "category": "Data Science",
+        "level": "Beginner",
+        "region": "Global",
+        "platform": "Women Who Code",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/datascience/14",
+        "tags": [
+            "data science",
+            "beginner",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Data Science for Women - Beginner (India) #1",
+        "category": "Data Science",
+        "level": "Beginner",
+        "region": "India",
+        "platform": "AnitaB.org",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/datascience/15",
+        "tags": [
+            "data science",
+            "beginner",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Data Science for Women - Beginner (India) #2",
+        "category": "Data Science",
+        "level": "Beginner",
+        "region": "India",
+        "platform": "Microsoft Women in Tech",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/datascience/16",
+        "tags": [
+            "data science",
+            "beginner",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Data Science for Women - Intermediate (Global) #1",
+        "category": "Data Science",
+        "level": "Intermediate",
+        "region": "Global",
+        "platform": "UN Women",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/datascience/17",
+        "tags": [
+            "data science",
+            "intermediate",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Data Science for Women - Intermediate (Global) #2",
+        "category": "Data Science",
+        "level": "Intermediate",
+        "region": "Global",
+        "platform": "AnitaB.org",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/datascience/18",
+        "tags": [
+            "data science",
+            "intermediate",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Data Science for Women - Intermediate (India) #1",
+        "category": "Data Science",
+        "level": "Intermediate",
+        "region": "India",
+        "platform": "NASSCOM Women Wizards Rule Tech",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/datascience/19",
+        "tags": [
+            "data science",
+            "intermediate",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Data Science for Women - Intermediate (India) #2",
+        "category": "Data Science",
+        "level": "Intermediate",
+        "region": "India",
+        "platform": "edX (Women Scholarship)",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/datascience/20",
+        "tags": [
+            "data science",
+            "intermediate",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Data Science for Women - Advanced (Global) #1",
+        "category": "Data Science",
+        "level": "Advanced",
+        "region": "Global",
+        "platform": "edX (Women Scholarship)",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/datascience/21",
+        "tags": [
+            "data science",
+            "advanced",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Data Science for Women - Advanced (Global) #2",
+        "category": "Data Science",
+        "level": "Advanced",
+        "region": "Global",
+        "platform": "Coursera (Women Scholarship)",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/datascience/22",
+        "tags": [
+            "data science",
+            "advanced",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 23,
+        "title": "Data Science for Women - Advanced (India) #1",
+        "category": "Data Science",
+        "level": "Advanced",
+        "region": "India",
+        "platform": "Women Who Code",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/datascience/23",
+        "tags": [
+            "data science",
+            "advanced",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 24,
+        "title": "Data Science for Women - Advanced (India) #2",
+        "category": "Data Science",
+        "level": "Advanced",
+        "region": "India",
+        "platform": "Google Women Techmakers",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/datascience/24",
+        "tags": [
+            "data science",
+            "advanced",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 25,
+        "title": "Artificial Intelligence for Women - Beginner (Global) #1",
+        "category": "Artificial Intelligence",
+        "level": "Beginner",
+        "region": "Global",
+        "platform": "Women Who Code",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/artificialintelligence/25",
+        "tags": [
+            "artificial intelligence",
+            "beginner",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 26,
+        "title": "Artificial Intelligence for Women - Beginner (Global) #2",
+        "category": "Artificial Intelligence",
+        "level": "Beginner",
+        "region": "Global",
+        "platform": "Google Women Techmakers",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/artificialintelligence/26",
+        "tags": [
+            "artificial intelligence",
+            "beginner",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 27,
+        "title": "Artificial Intelligence for Women - Beginner (India) #1",
+        "category": "Artificial Intelligence",
+        "level": "Beginner",
+        "region": "India",
+        "platform": "UN Women",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/artificialintelligence/27",
+        "tags": [
+            "artificial intelligence",
+            "beginner",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Artificial Intelligence for Women - Beginner (India) #2",
+        "category": "Artificial Intelligence",
+        "level": "Beginner",
+        "region": "India",
+        "platform": "edX (Women Scholarship)",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/artificialintelligence/28",
+        "tags": [
+            "artificial intelligence",
+            "beginner",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 29,
+        "title": "Artificial Intelligence for Women - Intermediate (Global) #1",
+        "category": "Artificial Intelligence",
+        "level": "Intermediate",
+        "region": "Global",
+        "platform": "Girls Who Code",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/artificialintelligence/29",
+        "tags": [
+            "artificial intelligence",
+            "intermediate",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 30,
+        "title": "Artificial Intelligence for Women - Intermediate (Global) #2",
+        "category": "Artificial Intelligence",
+        "level": "Intermediate",
+        "region": "Global",
+        "platform": "edX (Women Scholarship)",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/artificialintelligence/30",
+        "tags": [
+            "artificial intelligence",
+            "intermediate",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 31,
+        "title": "Artificial Intelligence for Women - Intermediate (India) #1",
+        "category": "Artificial Intelligence",
+        "level": "Intermediate",
+        "region": "India",
+        "platform": "Google Women Techmakers",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/artificialintelligence/31",
+        "tags": [
+            "artificial intelligence",
+            "intermediate",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 32,
+        "title": "Artificial Intelligence for Women - Intermediate (India) #2",
+        "category": "Artificial Intelligence",
+        "level": "Intermediate",
+        "region": "India",
+        "platform": "SheCodes",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/artificialintelligence/32",
+        "tags": [
+            "artificial intelligence",
+            "intermediate",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 33,
+        "title": "Artificial Intelligence for Women - Advanced (Global) #1",
+        "category": "Artificial Intelligence",
+        "level": "Advanced",
+        "region": "Global",
+        "platform": "edX (Women Scholarship)",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/artificialintelligence/33",
+        "tags": [
+            "artificial intelligence",
+            "advanced",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 34,
+        "title": "Artificial Intelligence for Women - Advanced (Global) #2",
+        "category": "Artificial Intelligence",
+        "level": "Advanced",
+        "region": "Global",
+        "platform": "edX (Women Scholarship)",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/artificialintelligence/34",
+        "tags": [
+            "artificial intelligence",
+            "advanced",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 35,
+        "title": "Artificial Intelligence for Women - Advanced (India) #1",
+        "category": "Artificial Intelligence",
+        "level": "Advanced",
+        "region": "India",
+        "platform": "Girls Who Code",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/artificialintelligence/35",
+        "tags": [
+            "artificial intelligence",
+            "advanced",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 36,
+        "title": "Artificial Intelligence for Women - Advanced (India) #2",
+        "category": "Artificial Intelligence",
+        "level": "Advanced",
+        "region": "India",
+        "platform": "Microsoft Women in Tech",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/artificialintelligence/36",
+        "tags": [
+            "artificial intelligence",
+            "advanced",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 37,
+        "title": "Web Development for Women - Beginner (Global) #1",
+        "category": "Web Development",
+        "level": "Beginner",
+        "region": "Global",
+        "platform": "UN Women",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/webdevelopment/37",
+        "tags": [
+            "web development",
+            "beginner",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 38,
+        "title": "Web Development for Women - Beginner (Global) #2",
+        "category": "Web Development",
+        "level": "Beginner",
+        "region": "Global",
+        "platform": "edX (Women Scholarship)",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/webdevelopment/38",
+        "tags": [
+            "web development",
+            "beginner",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 39,
+        "title": "Web Development for Women - Beginner (India) #1",
+        "category": "Web Development",
+        "level": "Beginner",
+        "region": "India",
+        "platform": "Women Who Code",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/webdevelopment/39",
+        "tags": [
+            "web development",
+            "beginner",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 40,
+        "title": "Web Development for Women - Beginner (India) #2",
+        "category": "Web Development",
+        "level": "Beginner",
+        "region": "India",
+        "platform": "Girls Who Code",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/webdevelopment/40",
+        "tags": [
+            "web development",
+            "beginner",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 41,
+        "title": "Web Development for Women - Intermediate (Global) #1",
+        "category": "Web Development",
+        "level": "Intermediate",
+        "region": "Global",
+        "platform": "SheCodes",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/webdevelopment/41",
+        "tags": [
+            "web development",
+            "intermediate",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 42,
+        "title": "Web Development for Women - Intermediate (Global) #2",
+        "category": "Web Development",
+        "level": "Intermediate",
+        "region": "Global",
+        "platform": "Girls Who Code",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/webdevelopment/42",
+        "tags": [
+            "web development",
+            "intermediate",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 43,
+        "title": "Web Development for Women - Intermediate (India) #1",
+        "category": "Web Development",
+        "level": "Intermediate",
+        "region": "India",
+        "platform": "AnitaB.org",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/webdevelopment/43",
+        "tags": [
+            "web development",
+            "intermediate",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 44,
+        "title": "Web Development for Women - Intermediate (India) #2",
+        "category": "Web Development",
+        "level": "Intermediate",
+        "region": "India",
+        "platform": "edX (Women Scholarship)",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/webdevelopment/44",
+        "tags": [
+            "web development",
+            "intermediate",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 45,
+        "title": "Web Development for Women - Advanced (Global) #1",
+        "category": "Web Development",
+        "level": "Advanced",
+        "region": "Global",
+        "platform": "Coursera (Women Scholarship)",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/webdevelopment/45",
+        "tags": [
+            "web development",
+            "advanced",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 46,
+        "title": "Web Development for Women - Advanced (Global) #2",
+        "category": "Web Development",
+        "level": "Advanced",
+        "region": "Global",
+        "platform": "Women Who Code",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/webdevelopment/46",
+        "tags": [
+            "web development",
+            "advanced",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 47,
+        "title": "Web Development for Women - Advanced (India) #1",
+        "category": "Web Development",
+        "level": "Advanced",
+        "region": "India",
+        "platform": "Google Women Techmakers",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/webdevelopment/47",
+        "tags": [
+            "web development",
+            "advanced",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 48,
+        "title": "Web Development for Women - Advanced (India) #2",
+        "category": "Web Development",
+        "level": "Advanced",
+        "region": "India",
+        "platform": "NASSCOM Women Wizards Rule Tech",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/webdevelopment/48",
+        "tags": [
+            "web development",
+            "advanced",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 49,
+        "title": "Entrepreneurship for Women - Beginner (Global) #1",
+        "category": "Entrepreneurship",
+        "level": "Beginner",
+        "region": "Global",
+        "platform": "Microsoft Women in Tech",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/entrepreneurship/49",
+        "tags": [
+            "entrepreneurship",
+            "beginner",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 50,
+        "title": "Entrepreneurship for Women - Beginner (Global) #2",
+        "category": "Entrepreneurship",
+        "level": "Beginner",
+        "region": "Global",
+        "platform": "edX (Women Scholarship)",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/entrepreneurship/50",
+        "tags": [
+            "entrepreneurship",
+            "beginner",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 51,
+        "title": "Entrepreneurship for Women - Beginner (India) #1",
+        "category": "Entrepreneurship",
+        "level": "Beginner",
+        "region": "India",
+        "platform": "Coursera (Women Scholarship)",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/entrepreneurship/51",
+        "tags": [
+            "entrepreneurship",
+            "beginner",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 52,
+        "title": "Entrepreneurship for Women - Beginner (India) #2",
+        "category": "Entrepreneurship",
+        "level": "Beginner",
+        "region": "India",
+        "platform": "Women Who Code",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/entrepreneurship/52",
+        "tags": [
+            "entrepreneurship",
+            "beginner",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 53,
+        "title": "Entrepreneurship for Women - Intermediate (Global) #1",
+        "category": "Entrepreneurship",
+        "level": "Intermediate",
+        "region": "Global",
+        "platform": "Microsoft Women in Tech",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/entrepreneurship/53",
+        "tags": [
+            "entrepreneurship",
+            "intermediate",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 54,
+        "title": "Entrepreneurship for Women - Intermediate (Global) #2",
+        "category": "Entrepreneurship",
+        "level": "Intermediate",
+        "region": "Global",
+        "platform": "Google Women Techmakers",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/entrepreneurship/54",
+        "tags": [
+            "entrepreneurship",
+            "intermediate",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 55,
+        "title": "Entrepreneurship for Women - Intermediate (India) #1",
+        "category": "Entrepreneurship",
+        "level": "Intermediate",
+        "region": "India",
+        "platform": "SheCodes",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/entrepreneurship/55",
+        "tags": [
+            "entrepreneurship",
+            "intermediate",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 56,
+        "title": "Entrepreneurship for Women - Intermediate (India) #2",
+        "category": "Entrepreneurship",
+        "level": "Intermediate",
+        "region": "India",
+        "platform": "Coursera (Women Scholarship)",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/entrepreneurship/56",
+        "tags": [
+            "entrepreneurship",
+            "intermediate",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 57,
+        "title": "Entrepreneurship for Women - Advanced (Global) #1",
+        "category": "Entrepreneurship",
+        "level": "Advanced",
+        "region": "Global",
+        "platform": "Women Who Code",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/entrepreneurship/57",
+        "tags": [
+            "entrepreneurship",
+            "advanced",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 58,
+        "title": "Entrepreneurship for Women - Advanced (Global) #2",
+        "category": "Entrepreneurship",
+        "level": "Advanced",
+        "region": "Global",
+        "platform": "Women Who Code",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/entrepreneurship/58",
+        "tags": [
+            "entrepreneurship",
+            "advanced",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 59,
+        "title": "Entrepreneurship for Women - Advanced (India) #1",
+        "category": "Entrepreneurship",
+        "level": "Advanced",
+        "region": "India",
+        "platform": "edX (Women Scholarship)",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/entrepreneurship/59",
+        "tags": [
+            "entrepreneurship",
+            "advanced",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 60,
+        "title": "Entrepreneurship for Women - Advanced (India) #2",
+        "category": "Entrepreneurship",
+        "level": "Advanced",
+        "region": "India",
+        "platform": "AnitaB.org",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/entrepreneurship/60",
+        "tags": [
+            "entrepreneurship",
+            "advanced",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 61,
+        "title": "Digital Marketing for Women - Beginner (Global) #1",
+        "category": "Digital Marketing",
+        "level": "Beginner",
+        "region": "Global",
+        "platform": "UN Women",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/digitalmarketing/61",
+        "tags": [
+            "digital marketing",
+            "beginner",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 62,
+        "title": "Digital Marketing for Women - Beginner (Global) #2",
+        "category": "Digital Marketing",
+        "level": "Beginner",
+        "region": "Global",
+        "platform": "Coursera (Women Scholarship)",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/digitalmarketing/62",
+        "tags": [
+            "digital marketing",
+            "beginner",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 63,
+        "title": "Digital Marketing for Women - Beginner (India) #1",
+        "category": "Digital Marketing",
+        "level": "Beginner",
+        "region": "India",
+        "platform": "SheCodes",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/digitalmarketing/63",
+        "tags": [
+            "digital marketing",
+            "beginner",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 64,
+        "title": "Digital Marketing for Women - Beginner (India) #2",
+        "category": "Digital Marketing",
+        "level": "Beginner",
+        "region": "India",
+        "platform": "NASSCOM Women Wizards Rule Tech",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/digitalmarketing/64",
+        "tags": [
+            "digital marketing",
+            "beginner",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 65,
+        "title": "Digital Marketing for Women - Intermediate (Global) #1",
+        "category": "Digital Marketing",
+        "level": "Intermediate",
+        "region": "Global",
+        "platform": "UN Women",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/digitalmarketing/65",
+        "tags": [
+            "digital marketing",
+            "intermediate",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 66,
+        "title": "Digital Marketing for Women - Intermediate (Global) #2",
+        "category": "Digital Marketing",
+        "level": "Intermediate",
+        "region": "Global",
+        "platform": "UN Women",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/digitalmarketing/66",
+        "tags": [
+            "digital marketing",
+            "intermediate",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 67,
+        "title": "Digital Marketing for Women - Intermediate (India) #1",
+        "category": "Digital Marketing",
+        "level": "Intermediate",
+        "region": "India",
+        "platform": "Girls Who Code",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/digitalmarketing/67",
+        "tags": [
+            "digital marketing",
+            "intermediate",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 68,
+        "title": "Digital Marketing for Women - Intermediate (India) #2",
+        "category": "Digital Marketing",
+        "level": "Intermediate",
+        "region": "India",
+        "platform": "SheCodes",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/digitalmarketing/68",
+        "tags": [
+            "digital marketing",
+            "intermediate",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 69,
+        "title": "Digital Marketing for Women - Advanced (Global) #1",
+        "category": "Digital Marketing",
+        "level": "Advanced",
+        "region": "Global",
+        "platform": "Coursera (Women Scholarship)",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/digitalmarketing/69",
+        "tags": [
+            "digital marketing",
+            "advanced",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 70,
+        "title": "Digital Marketing for Women - Advanced (Global) #2",
+        "category": "Digital Marketing",
+        "level": "Advanced",
+        "region": "Global",
+        "platform": "Google Women Techmakers",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/digitalmarketing/70",
+        "tags": [
+            "digital marketing",
+            "advanced",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 71,
+        "title": "Digital Marketing for Women - Advanced (India) #1",
+        "category": "Digital Marketing",
+        "level": "Advanced",
+        "region": "India",
+        "platform": "UN Women",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/digitalmarketing/71",
+        "tags": [
+            "digital marketing",
+            "advanced",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 72,
+        "title": "Digital Marketing for Women - Advanced (India) #2",
+        "category": "Digital Marketing",
+        "level": "Advanced",
+        "region": "India",
+        "platform": "Microsoft Women in Tech",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/digitalmarketing/72",
+        "tags": [
+            "digital marketing",
+            "advanced",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 73,
+        "title": "Financial Literacy for Women - Beginner (Global) #1",
+        "category": "Financial Literacy",
+        "level": "Beginner",
+        "region": "Global",
+        "platform": "Coursera (Women Scholarship)",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/financialliteracy/73",
+        "tags": [
+            "financial literacy",
+            "beginner",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 74,
+        "title": "Financial Literacy for Women - Beginner (Global) #2",
+        "category": "Financial Literacy",
+        "level": "Beginner",
+        "region": "Global",
+        "platform": "Girls Who Code",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/financialliteracy/74",
+        "tags": [
+            "financial literacy",
+            "beginner",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 75,
+        "title": "Financial Literacy for Women - Beginner (India) #1",
+        "category": "Financial Literacy",
+        "level": "Beginner",
+        "region": "India",
+        "platform": "NASSCOM Women Wizards Rule Tech",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/financialliteracy/75",
+        "tags": [
+            "financial literacy",
+            "beginner",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 76,
+        "title": "Financial Literacy for Women - Beginner (India) #2",
+        "category": "Financial Literacy",
+        "level": "Beginner",
+        "region": "India",
+        "platform": "Microsoft Women in Tech",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/financialliteracy/76",
+        "tags": [
+            "financial literacy",
+            "beginner",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 77,
+        "title": "Financial Literacy for Women - Intermediate (Global) #1",
+        "category": "Financial Literacy",
+        "level": "Intermediate",
+        "region": "Global",
+        "platform": "Microsoft Women in Tech",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/financialliteracy/77",
+        "tags": [
+            "financial literacy",
+            "intermediate",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 78,
+        "title": "Financial Literacy for Women - Intermediate (Global) #2",
+        "category": "Financial Literacy",
+        "level": "Intermediate",
+        "region": "Global",
+        "platform": "edX (Women Scholarship)",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/financialliteracy/78",
+        "tags": [
+            "financial literacy",
+            "intermediate",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 79,
+        "title": "Financial Literacy for Women - Intermediate (India) #1",
+        "category": "Financial Literacy",
+        "level": "Intermediate",
+        "region": "India",
+        "platform": "Microsoft Women in Tech",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/financialliteracy/79",
+        "tags": [
+            "financial literacy",
+            "intermediate",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 80,
+        "title": "Financial Literacy for Women - Intermediate (India) #2",
+        "category": "Financial Literacy",
+        "level": "Intermediate",
+        "region": "India",
+        "platform": "Microsoft Women in Tech",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/financialliteracy/80",
+        "tags": [
+            "financial literacy",
+            "intermediate",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 81,
+        "title": "Financial Literacy for Women - Advanced (Global) #1",
+        "category": "Financial Literacy",
+        "level": "Advanced",
+        "region": "Global",
+        "platform": "Women Who Code",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/financialliteracy/81",
+        "tags": [
+            "financial literacy",
+            "advanced",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 82,
+        "title": "Financial Literacy for Women - Advanced (Global) #2",
+        "category": "Financial Literacy",
+        "level": "Advanced",
+        "region": "Global",
+        "platform": "Women Who Code",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/financialliteracy/82",
+        "tags": [
+            "financial literacy",
+            "advanced",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 83,
+        "title": "Financial Literacy for Women - Advanced (India) #1",
+        "category": "Financial Literacy",
+        "level": "Advanced",
+        "region": "India",
+        "platform": "UN Women",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/financialliteracy/83",
+        "tags": [
+            "financial literacy",
+            "advanced",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 84,
+        "title": "Financial Literacy for Women - Advanced (India) #2",
+        "category": "Financial Literacy",
+        "level": "Advanced",
+        "region": "India",
+        "platform": "Women Who Code",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/financialliteracy/84",
+        "tags": [
+            "financial literacy",
+            "advanced",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 85,
+        "title": "Legal Awareness for Women - Beginner (Global) #1",
+        "category": "Legal Awareness",
+        "level": "Beginner",
+        "region": "Global",
+        "platform": "Google Women Techmakers",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/legalawareness/85",
+        "tags": [
+            "legal awareness",
+            "beginner",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 86,
+        "title": "Legal Awareness for Women - Beginner (Global) #2",
+        "category": "Legal Awareness",
+        "level": "Beginner",
+        "region": "Global",
+        "platform": "edX (Women Scholarship)",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/legalawareness/86",
+        "tags": [
+            "legal awareness",
+            "beginner",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 87,
+        "title": "Legal Awareness for Women - Beginner (India) #1",
+        "category": "Legal Awareness",
+        "level": "Beginner",
+        "region": "India",
+        "platform": "SheCodes",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/legalawareness/87",
+        "tags": [
+            "legal awareness",
+            "beginner",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 88,
+        "title": "Legal Awareness for Women - Beginner (India) #2",
+        "category": "Legal Awareness",
+        "level": "Beginner",
+        "region": "India",
+        "platform": "UN Women",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/legalawareness/88",
+        "tags": [
+            "legal awareness",
+            "beginner",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 89,
+        "title": "Legal Awareness for Women - Intermediate (Global) #1",
+        "category": "Legal Awareness",
+        "level": "Intermediate",
+        "region": "Global",
+        "platform": "Women Who Code",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/legalawareness/89",
+        "tags": [
+            "legal awareness",
+            "intermediate",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 90,
+        "title": "Legal Awareness for Women - Intermediate (Global) #2",
+        "category": "Legal Awareness",
+        "level": "Intermediate",
+        "region": "Global",
+        "platform": "UN Women",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/legalawareness/90",
+        "tags": [
+            "legal awareness",
+            "intermediate",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 91,
+        "title": "Legal Awareness for Women - Intermediate (India) #1",
+        "category": "Legal Awareness",
+        "level": "Intermediate",
+        "region": "India",
+        "platform": "Girls Who Code",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/legalawareness/91",
+        "tags": [
+            "legal awareness",
+            "intermediate",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 92,
+        "title": "Legal Awareness for Women - Intermediate (India) #2",
+        "category": "Legal Awareness",
+        "level": "Intermediate",
+        "region": "India",
+        "platform": "Coursera (Women Scholarship)",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/legalawareness/92",
+        "tags": [
+            "legal awareness",
+            "intermediate",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 93,
+        "title": "Legal Awareness for Women - Advanced (Global) #1",
+        "category": "Legal Awareness",
+        "level": "Advanced",
+        "region": "Global",
+        "platform": "Girls Who Code",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/legalawareness/93",
+        "tags": [
+            "legal awareness",
+            "advanced",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 94,
+        "title": "Legal Awareness for Women - Advanced (Global) #2",
+        "category": "Legal Awareness",
+        "level": "Advanced",
+        "region": "Global",
+        "platform": "Women Who Code",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/legalawareness/94",
+        "tags": [
+            "legal awareness",
+            "advanced",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 95,
+        "title": "Legal Awareness for Women - Advanced (India) #1",
+        "category": "Legal Awareness",
+        "level": "Advanced",
+        "region": "India",
+        "platform": "AnitaB.org",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/legalawareness/95",
+        "tags": [
+            "legal awareness",
+            "advanced",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 96,
+        "title": "Legal Awareness for Women - Advanced (India) #2",
+        "category": "Legal Awareness",
+        "level": "Advanced",
+        "region": "India",
+        "platform": "edX (Women Scholarship)",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/legalawareness/96",
+        "tags": [
+            "legal awareness",
+            "advanced",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 97,
+        "title": "Career Development for Women - Beginner (Global) #1",
+        "category": "Career Development",
+        "level": "Beginner",
+        "region": "Global",
+        "platform": "Google Women Techmakers",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/careerdevelopment/97",
+        "tags": [
+            "career development",
+            "beginner",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 98,
+        "title": "Career Development for Women - Beginner (Global) #2",
+        "category": "Career Development",
+        "level": "Beginner",
+        "region": "Global",
+        "platform": "Girls Who Code",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/careerdevelopment/98",
+        "tags": [
+            "career development",
+            "beginner",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 99,
+        "title": "Career Development for Women - Beginner (India) #1",
+        "category": "Career Development",
+        "level": "Beginner",
+        "region": "India",
+        "platform": "NASSCOM Women Wizards Rule Tech",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/careerdevelopment/99",
+        "tags": [
+            "career development",
+            "beginner",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 100,
+        "title": "Career Development for Women - Beginner (India) #2",
+        "category": "Career Development",
+        "level": "Beginner",
+        "region": "India",
+        "platform": "Google Women Techmakers",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/careerdevelopment/100",
+        "tags": [
+            "career development",
+            "beginner",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 101,
+        "title": "Career Development for Women - Intermediate (Global) #1",
+        "category": "Career Development",
+        "level": "Intermediate",
+        "region": "Global",
+        "platform": "Coursera (Women Scholarship)",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/careerdevelopment/101",
+        "tags": [
+            "career development",
+            "intermediate",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 102,
+        "title": "Career Development for Women - Intermediate (Global) #2",
+        "category": "Career Development",
+        "level": "Intermediate",
+        "region": "Global",
+        "platform": "Women Who Code",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/careerdevelopment/102",
+        "tags": [
+            "career development",
+            "intermediate",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 103,
+        "title": "Career Development for Women - Intermediate (India) #1",
+        "category": "Career Development",
+        "level": "Intermediate",
+        "region": "India",
+        "platform": "Coursera (Women Scholarship)",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/careerdevelopment/103",
+        "tags": [
+            "career development",
+            "intermediate",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 104,
+        "title": "Career Development for Women - Intermediate (India) #2",
+        "category": "Career Development",
+        "level": "Intermediate",
+        "region": "India",
+        "platform": "Coursera (Women Scholarship)",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/careerdevelopment/104",
+        "tags": [
+            "career development",
+            "intermediate",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 105,
+        "title": "Career Development for Women - Advanced (Global) #1",
+        "category": "Career Development",
+        "level": "Advanced",
+        "region": "Global",
+        "platform": "Coursera (Women Scholarship)",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/careerdevelopment/105",
+        "tags": [
+            "career development",
+            "advanced",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 106,
+        "title": "Career Development for Women - Advanced (Global) #2",
+        "category": "Career Development",
+        "level": "Advanced",
+        "region": "Global",
+        "platform": "Girls Who Code",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/careerdevelopment/106",
+        "tags": [
+            "career development",
+            "advanced",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 107,
+        "title": "Career Development for Women - Advanced (India) #1",
+        "category": "Career Development",
+        "level": "Advanced",
+        "region": "India",
+        "platform": "Girls Who Code",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/careerdevelopment/107",
+        "tags": [
+            "career development",
+            "advanced",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 108,
+        "title": "Career Development for Women - Advanced (India) #2",
+        "category": "Career Development",
+        "level": "Advanced",
+        "region": "India",
+        "platform": "SheCodes",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/careerdevelopment/108",
+        "tags": [
+            "career development",
+            "advanced",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 109,
+        "title": "Scholarships & Fellowships for Women - Beginner (Global) #1",
+        "category": "Scholarships & Fellowships",
+        "level": "Beginner",
+        "region": "Global",
+        "platform": "UN Women",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/scholarships&fellowships/109",
+        "tags": [
+            "scholarships & fellowships",
+            "beginner",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 110,
+        "title": "Scholarships & Fellowships for Women - Beginner (Global) #2",
+        "category": "Scholarships & Fellowships",
+        "level": "Beginner",
+        "region": "Global",
+        "platform": "Microsoft Women in Tech",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/scholarships&fellowships/110",
+        "tags": [
+            "scholarships & fellowships",
+            "beginner",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 111,
+        "title": "Scholarships & Fellowships for Women - Beginner (India) #1",
+        "category": "Scholarships & Fellowships",
+        "level": "Beginner",
+        "region": "India",
+        "platform": "Women Who Code",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/scholarships&fellowships/111",
+        "tags": [
+            "scholarships & fellowships",
+            "beginner",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 112,
+        "title": "Scholarships & Fellowships for Women - Beginner (India) #2",
+        "category": "Scholarships & Fellowships",
+        "level": "Beginner",
+        "region": "India",
+        "platform": "Coursera (Women Scholarship)",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/scholarships&fellowships/112",
+        "tags": [
+            "scholarships & fellowships",
+            "beginner",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 113,
+        "title": "Scholarships & Fellowships for Women - Intermediate (Global) #1",
+        "category": "Scholarships & Fellowships",
+        "level": "Intermediate",
+        "region": "Global",
+        "platform": "SheCodes",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/scholarships&fellowships/113",
+        "tags": [
+            "scholarships & fellowships",
+            "intermediate",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 114,
+        "title": "Scholarships & Fellowships for Women - Intermediate (Global) #2",
+        "category": "Scholarships & Fellowships",
+        "level": "Intermediate",
+        "region": "Global",
+        "platform": "Microsoft Women in Tech",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/scholarships&fellowships/114",
+        "tags": [
+            "scholarships & fellowships",
+            "intermediate",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 115,
+        "title": "Scholarships & Fellowships for Women - Intermediate (India) #1",
+        "category": "Scholarships & Fellowships",
+        "level": "Intermediate",
+        "region": "India",
+        "platform": "SheCodes",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/scholarships&fellowships/115",
+        "tags": [
+            "scholarships & fellowships",
+            "intermediate",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 116,
+        "title": "Scholarships & Fellowships for Women - Intermediate (India) #2",
+        "category": "Scholarships & Fellowships",
+        "level": "Intermediate",
+        "region": "India",
+        "platform": "Women Who Code",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/scholarships&fellowships/116",
+        "tags": [
+            "scholarships & fellowships",
+            "intermediate",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 117,
+        "title": "Scholarships & Fellowships for Women - Advanced (Global) #1",
+        "category": "Scholarships & Fellowships",
+        "level": "Advanced",
+        "region": "Global",
+        "platform": "edX (Women Scholarship)",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/scholarships&fellowships/117",
+        "tags": [
+            "scholarships & fellowships",
+            "advanced",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 118,
+        "title": "Scholarships & Fellowships for Women - Advanced (Global) #2",
+        "category": "Scholarships & Fellowships",
+        "level": "Advanced",
+        "region": "Global",
+        "platform": "NASSCOM Women Wizards Rule Tech",
+        "type": "Free",
+        "certificate": "Yes",
+        "link": "https://example.com/scholarships&fellowships/118",
+        "tags": [
+            "scholarships & fellowships",
+            "advanced",
+            "global",
+            "women"
+        ]
+    },
+    {
+        "id": 119,
+        "title": "Scholarships & Fellowships for Women - Advanced (India) #1",
+        "category": "Scholarships & Fellowships",
+        "level": "Advanced",
+        "region": "India",
+        "platform": "AnitaB.org",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/scholarships&fellowships/119",
+        "tags": [
+            "scholarships & fellowships",
+            "advanced",
+            "india",
+            "women"
+        ]
+    },
+    {
+        "id": 120,
+        "title": "Scholarships & Fellowships for Women - Advanced (India) #2",
+        "category": "Scholarships & Fellowships",
+        "level": "Advanced",
+        "region": "India",
+        "platform": "edX (Women Scholarship)",
+        "type": "Free",
+        "certificate": "No",
+        "link": "https://example.com/scholarships&fellowships/120",
+        "tags": [
+            "scholarships & fellowships",
+            "advanced",
+            "india",
+            "women"
+        ]
+    }
+]

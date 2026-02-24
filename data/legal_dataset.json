@@ -1,0 +1,25 @@
+[
+  {
+    "intent": "domestic_violence",
+    "examples": [
+      "my husband beats me",
+      "i am facing domestic violence",
+      "physical abuse at home"
+    ],
+    "responses": [
+      "You are not alone. Under the Protection of Women from Domestic Violence Act, 2005, you are legally protected.",
+      "Your safety matters. You can call 181 Women Helpline immediately."
+    ]
+  },
+  {
+    "intent": "workplace_harassment",
+    "examples": [
+      "my boss is harassing me",
+      "sexual harassment at office",
+      "unsafe workplace"
+    ],
+    "responses": [
+      "Under the Sexual Harassment of Women at Workplace Act, 2013, you may file a complaint with the Internal Complaints Committee."
+    ]
+  }
+]
