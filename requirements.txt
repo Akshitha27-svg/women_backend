@@ -7,5 +7,5 @@ sqlalchemy
 psycopg2-binary
 
 python-jose
-
+gunicorn==21.2.0
 passlib
