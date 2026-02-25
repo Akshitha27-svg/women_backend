@@ -22,7 +22,7 @@ DATABASE_URL = os.getenv("DATABASE_URL")
 
 app = Flask(__name__)
 
-app.config["SQLALCHEMY_DATABASE_URI"] = "postgresql://postgres:PostgreSQL@localhost/women_support_app"
+app.config["SQLALCHEMY_DATABASE_URI"] = os.getenv("DATABASE_URL")
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 app.config["JWT_SECRET_KEY"] = "super-secret-key"
 app.config["SECRET_KEY"] = "email-secret-key"
@@ -33,13 +33,9 @@ jwt = JWTManager(app)
 serializer = URLSafeTimedSerializer(app.config["SECRET_KEY"])
 from fastapi.middleware.cors import CORSMiddleware
 
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["https://medical-risk-app.vercel.app"],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
+from flask_cors import CORS
+CORS(app, resources={r"/*": {"origins": "*"}})
+
 # =========================================================
 # DATABASE MODELS
 # =========================================================
@@ -423,4 +419,4 @@ with app.app_context():
     db.create_all()
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
